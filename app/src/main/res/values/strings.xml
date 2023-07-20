@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Padaria Digital</string>
+    <string name="usuario">Usuário</string>
+    <string name="nome">Nome</string>
+    <string name="senha">Senha</string>
+    <string name="cadastrar">Cadastrar</string>
+    <string name="imagem_do_produto">Imagem do produto</string>
+    <string name="perfil_do_usuario">Perfil do usuario</string>
+    <string name="todos_os_produtos">Todos os produtos</string>
+    <string name="editar">Editar</string>
+    <string name="remover">Remover</string>
+    <string name="padaria_digital">Padaria Digital</string>
+</resources>
